@@ -1,0 +1,10 @@
+F:\unityproject\Server\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.dll
+F:\unityproject\Server\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.pdb
+F:\unityproject\Server\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.csprojResolveAssemblyReference.cache
+F:\unityproject\Server\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.dll
+F:\unityproject\Server\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.pdb
+F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.dll
+F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.pdb
+F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.csprojResolveAssemblyReference.cache
+F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.dll
+F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.pdb
