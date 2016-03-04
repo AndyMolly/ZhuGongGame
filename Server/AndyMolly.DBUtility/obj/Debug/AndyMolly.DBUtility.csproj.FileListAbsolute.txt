@@ -1,0 +1,5 @@
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.DBUtility\bin\Debug\AndyMolly.DBUtility.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.DBUtility\bin\Debug\AndyMolly.DBUtility.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.DBUtility\obj\Debug\AndyMolly.DBUtility.csprojResolveAssemblyReference.cache
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.DBUtility\obj\Debug\AndyMolly.DBUtility.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.DBUtility\obj\Debug\AndyMolly.DBUtility.pdb
