@@ -8,3 +8,8 @@ F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.p
 F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.csprojResolveAssemblyReference.cache
 F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.dll
 F:\unityproject\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Common\bin\Debug\AndyMolly.Common.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.csprojResolveAssemblyReference.cache
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Common\obj\Debug\AndyMolly.Common.pdb

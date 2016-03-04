@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.Model", "AndyMoll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.DBUtility", "AndyMolly.DBUtility\AndyMolly.DBUtility.csproj", "{CC60F2E3-9256-40EB-A070-7D2A861F2D0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.DAL", "AndyMolly.DAL\AndyMolly.DAL.csproj", "{2D94FD0A-3916-4EC6-89F4-673C6BF553F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.BLL", "AndyMolly.BLL\AndyMolly.BLL.csproj", "{AC2FDA4F-D832-4DF9-8C15-235210C93237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CC60F2E3-9256-40EB-A070-7D2A861F2D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC60F2E3-9256-40EB-A070-7D2A861F2D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC60F2E3-9256-40EB-A070-7D2A861F2D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D94FD0A-3916-4EC6-89F4-673C6BF553F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D94FD0A-3916-4EC6-89F4-673C6BF553F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D94FD0A-3916-4EC6-89F4-673C6BF553F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D94FD0A-3916-4EC6-89F4-673C6BF553F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
