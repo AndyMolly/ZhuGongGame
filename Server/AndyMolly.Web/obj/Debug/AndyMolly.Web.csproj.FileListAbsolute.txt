@@ -1,0 +1,17 @@
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Web.dll.config
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Web.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Web.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.BLL.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Common.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Model.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\protobuf-net.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.DAL.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.DBUtility.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.BLL.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Common.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.Model.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.DAL.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\bin\AndyMolly.DBUtility.pdb
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\obj\Debug\AndyMolly.Web.csprojResolveAssemblyReference.cache
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\obj\Debug\AndyMolly.Web.dll
+D:\Tool\MyUnityProgram\ZhuGongGame\Server\AndyMolly.Web\obj\Debug\AndyMolly.Web.pdb

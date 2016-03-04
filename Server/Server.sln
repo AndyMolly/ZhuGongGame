@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.DAL", "AndyMolly.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.BLL", "AndyMolly.BLL\AndyMolly.BLL.csproj", "{AC2FDA4F-D832-4DF9-8C15-235210C93237}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyMolly.Web", "AndyMolly.Web\AndyMolly.Web.csproj", "{AFB04EBD-D268-46B5-9C9C-AE0A3B8AD7A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC2FDA4F-D832-4DF9-8C15-235210C93237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB04EBD-D268-46B5-9C9C-AE0A3B8AD7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB04EBD-D268-46B5-9C9C-AE0A3B8AD7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB04EBD-D268-46B5-9C9C-AE0A3B8AD7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB04EBD-D268-46B5-9C9C-AE0A3B8AD7A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
