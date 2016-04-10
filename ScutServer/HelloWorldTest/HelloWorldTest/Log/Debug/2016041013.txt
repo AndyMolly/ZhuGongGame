@@ -1,0 +1,80 @@
+Time:2016-04-10 13:00:04:876-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:00:09:666-Trace>>Socket connect status: TotalCount=1, CurrentCount=1, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:01:04:892-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:01:09:677-Trace>>Socket connect status: TotalCount=1, CurrentCount=0, CloseCount=1, RejectedCount=0
+
+
+Time:2016-04-10 13:02:04:904-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:02:09:694-Trace>>Socket connect status: TotalCount=1, CurrentCount=0, CloseCount=1, RejectedCount=0
+
+
+Time:2016-04-10 13:03:04:918-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:03:09:708-Trace>>Socket connect status: TotalCount=2, CurrentCount=1, CloseCount=1, RejectedCount=0
+
+
+Time:2016-04-10 13:04:04:929-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:04:09:719-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-04-10 13:05:09:817-Trace>>Socket connect status: TotalCount=3, CurrentCount=1, CloseCount=2, RejectedCount=0
+
+
+Time:2016-04-10 13:05:09:817-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:05:09:817-Trace>>Process action-100 Uid:0 access timeout 7064.0124/500ms.
+Url:Url:?d=MsgId%3d1%26Sid%3d%26Uid%3d0%26St%3d%26actionId%3d100%26sign%3da287923ee43853e325310b91dda5a1e9, Uid:0, Pid:
+Host:127.0.0.1:2326
+
+
+Time:2016-04-10 13:06:09:824-Trace>>Socket connect status: TotalCount=3, CurrentCount=1, CloseCount=2, RejectedCount=0
+
+
+Time:2016-04-10 13:06:09:824-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:12:08:542-Redis write queue start init...
+
+
+Time:2016-04-10 13:12:08:542-Sql wait write queue start init...
+
+
+Time:2016-04-10 13:12:08:552-Sql write queue start init...
+
+
+Time:2016-04-10 13:12:08:874-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:12:09:374-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:13:08:896-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:13:09:396-Trace>>Socket connect status: TotalCount=1, CurrentCount=0, CloseCount=1, RejectedCount=0
+
+
+Time:2016-04-10 13:14:08:907-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:14:09:407-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-04-10 13:15:08:923-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-04-10 13:15:09:423-Trace>>Socket connect status: TotalCount=3, CurrentCount=0, CloseCount=3, RejectedCount=0
+
+
